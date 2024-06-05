@@ -11,3 +11,12 @@ I'm a passionate Mobile App Developer specializing in Flutter and Dart. With a k
 - **Frameworks:** Flutter
 - **Tools:** Android Studio, Visual Studio Code, Git, GitHub
 - **Other:** Firebase, REST APIs, UI/UX Design
+## 📫 How to Reach Me
+
+Feel free to reach out to me for collaborations, project discussions, or just to say hi!
+
+- **Email:** abir41300@gmail.com
+
+---
+
+“Building Tomorrow's Apps Today with Passion and Precision”
