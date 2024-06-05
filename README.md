@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Abir-Bin-Billal
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on Web development
+- 👀 I’m interested in App Development
+- 💞️ I’m looking to collaborate on App development
 - 📫 How to reach me Email : abir41300@gmail.com
 
 <!---
