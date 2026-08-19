@@ -1,6 +1,6 @@
-# Hi, I'm Abir Bin Billal! 👋
+# Hi, I'm Abir Bin Billal! :3
 
-## 🚀 About Me
+##  About Me:)
 
 I'm a passionate **Mobile App Developer** with experience building cross-platform applications using **Flutter and Dart** and native iOS applications using **Swift and SwiftUI**.
 
@@ -10,7 +10,7 @@ I'm continuously learning and exploring new technologies to improve my skills an
 
 ## 🛠️ Skills & Technologies
 
-### 📱 Mobile Development
+###  Mobile Development
 
 * Flutter
 * iOS Development
@@ -18,7 +18,7 @@ I'm continuously learning and exploring new technologies to improve my skills an
 * UIKit
 * Cross-Platform Development
 
-### 💻 Programming Languages
+###  Programming Languages
 
 * Dart
 * Swift
@@ -26,13 +26,13 @@ I'm continuously learning and exploring new technologies to improve my skills an
 * Python
 * SQL
 
-### 🔧 State Management
+###  State Management
 
 * GetX
 * Provider
 * Bloc
 
-### 🗄️ Backend, Database & Services
+###  Backend, Database & Services
 
 * Firebase
 * Firebase Authentication
@@ -42,7 +42,7 @@ I'm continuously learning and exploring new technologies to improve my skills an
 * SQLite
 * MySQL
 
-### 🛠️ Tools & Technologies
+###  Tools & Technologies
 
 * Xcode
 * Android Studio
@@ -53,7 +53,7 @@ I'm continuously learning and exploring new technologies to improve my skills an
 * Docker
 * Postman
 
-## 🌱 Currently Exploring
+## Tech Stack Now
 
 * Advanced iOS Development
 * Swift & SwiftUI
@@ -61,9 +61,8 @@ I'm continuously learning and exploring new technologies to improve my skills an
 * Performance Optimization
 * Clean and Scalable Application Development
 
-## 📫 How to Reach Me
+## How to Reach Me:)
 
-Feel free to reach out for collaborations, project discussions, or just to say hi!
 
 * **Email:** [abir41300@gmail.com](mailto:abir41300@gmail.com)
 * **GitHub:** [Abir-Bin-Billal](https://github.com/Abir-Bin-Billal)
@@ -71,5 +70,4 @@ Feel free to reach out for collaborations, project discussions, or just to say h
 
 ---
 
-> **"Building seamless mobile experiences with passion, precision, and continuous learning."** 🚀
 
